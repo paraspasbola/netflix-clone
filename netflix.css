@@ -13,7 +13,7 @@ body{
     height: 640px;
     /* width: ; */
     /* background-image:  */
-    background-image: linear-gradient(rgba(14, 3, 3, 0.993),rgba(20, 20, 20, 0.788),rgba(14,3,3,0.993) ),url("background_image.jpg");;
+    background-image: linear-gradient(rgba(14, 3, 3, 0.993),rgba(20, 20, 20, 0.788),rgba(14,3,3,0.993) ),url("background_image.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
